@@ -18,8 +18,7 @@ import {
 } from "lucide-react";
 
 const websiteUrl = "https://orpha-care.onrender.com/";
-const apkUrl =
-  "https://bucket.appilix.com/app-apk-8ef5898b9954451d85862c8bf431a91a-1779101314.apk";
+const apkUrl = "/App.apk";
 
 const features = [
   {
