@@ -336,7 +336,7 @@ function ActionCard() {
             href={apkUrl}
             target="_self"
             rel="noopener noreferrer"
-            download
+            download="App.apk"
             className="mt-4 flex min-h-14 w-full items-center justify-center gap-3 rounded-2xl bg-white px-5 text-lg font-black text-emerald-700 shadow-[0_20px_42px_rgba(4,120,87,0.25)] transition hover:text-emerald-800 sm:mt-5 sm:min-h-16 sm:text-xl"
           >
             <Download className="h-6 w-6" />
