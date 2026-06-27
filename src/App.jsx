@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 
 const websiteUrl = "https://orpha-care.onrender.com/";
-const apkUrl = "/App.apk";
+const apkUrl = "/App.apk"; // Deployed local APK file
 
 const features = [
   {
